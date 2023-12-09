@@ -2,9 +2,10 @@
   "name": "ass2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "sqlApi.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node sqlApi.js"
   },
   "keywords": [],
   "author": "",
